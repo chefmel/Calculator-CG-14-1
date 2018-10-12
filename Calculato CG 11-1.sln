@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculato CG 11-1", "Calculato CG 11-1\Calculato CG 11-1.csproj", "{916C8B9B-F2B2-44B8-B41D-E34B5405283A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator CG 14-1", "Calculato CG 11-1\Calculator CG 14-1.csproj", "{916C8B9B-F2B2-44B8-B41D-E34B5405283A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
